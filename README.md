@@ -62,4 +62,5 @@ https://www.linkedin.com/in/luciangelacatizane
 ```
 
 ** Ou clique para visitar [Linkedin](https://www.linkedin.com/in/luciangelacatizane) ❤**
+** Ou clique para visitar [Documento PDF](https://github.com/Catizane/Catizane/blob/main/-102024Curriculo_Luciangela_Catizane.pdf) ❤**
 
