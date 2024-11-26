@@ -47,16 +47,20 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+  ** Ou clique para visitar  a página [Linkedin](https://www.linkedin.com/in/luciangelacatizane) ❤**
 
 ###
 
 ## Aviso Importante
-3. Para obter o acesso `linkedin`, basta copiar o endereco:
+3. Para obter o acesso `indice do portifolio  e pagina`, basta copiar o endereco:
 
 ```
-https://www.linkedin.com/in/luciangelacatizane
+https://github.com/Catizane/catizane.github.io
+```
+```
+https://catizane.github.io/
 ```
 
-** Ou clique para visitar [Linkedin](https://www.linkedin.com/in/luciangelacatizane) ❤**
-** Ou clique para visitar [Documento PDF](https://github.com/Catizane/Catizane/blob/main/-102024Curriculo_Luciangela_Catizane.pdf) ❤**
+
+** Clique para acessar  [Documento PDF](https://github.com/Catizane/Catizane/blob/main/-102024Curriculo_Luciangela_Catizane.pdf) ❤**
 
