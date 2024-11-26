@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">• Pos Graduada  (XPE)<br><br>• Residência em QA, focado em automação e negocio<br><br>• Testes automatizados com  Cypress <br><br>• Linguagens de programação: JavaScript  (</p>
+<p align="left">• Pos Graduada em Engenharia Software Agil (XPE)<br><br>• Certificada PSPO I e CTFL<br><br>• Testes automatizados com  Cypress e API com Postman <br><br>• Linguagens de programação: JavaScript (Nivel: Intermediario)  </p>
 
 ###
 
